@@ -25,7 +25,7 @@ ARS [var] [index]- Set array index
 ARG [var] [index] - Set array index
 MOV [var] [value] - Set variable
 
-CMP [var1] [var2] [type] [EQ/NQ/GR/GE/LS/LE] [label] [EJ - else jump] - Compare then jump to label
+CMP [var1] [var2] [type] [EQ/NQ/GR/GE/LS/LE] [label] [EJ - else jump] - Compare values, if true then jump to label
 JMP [label] - Jump to label
 
 EQ - Equal
