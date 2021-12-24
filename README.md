@@ -8,8 +8,10 @@ Some parts are not consistent, this was an experiment, not for real use
 prglng\bin\Debug\
 
 ## Usage
+```
 prglng.exe [filename]
 For ex. prglng.exe first.ini
+```
 
 ## Keywords
 Some may be incorrect, since it was never documented
