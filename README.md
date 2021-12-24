@@ -1,11 +1,11 @@
 # Program Language Test
 
 ## Info
-Assembly and batch file structured programming language, uses strong types
-Some parts are not consistent, this was an experiment, not for real use
+Assembly and batch file structured programming language, uses strong types.\
+Some parts are not consistent, this was an experiment, not for real use.
 
 ## Sample codes
-prglng\bin\Debug\
+prglng\bin\Debug
 
 ## Usage
 ```
