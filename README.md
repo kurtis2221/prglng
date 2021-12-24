@@ -13,6 +13,7 @@ For ex. prglng.exe first.ini
 
 ## Keywords
 Some may be incorrect, since it was never documented
+```
 ! - Comment
 :label - Jump label
 
@@ -54,6 +55,6 @@ ROR [var1] [var2] [type] - Byteshift right variable
 Used in function calls and CMP keyword
 % - value type variable
 & - reference type variable
-
+```
 ## Tools Needed To load the project properly
 - Visual C# 2008 Express or newer
